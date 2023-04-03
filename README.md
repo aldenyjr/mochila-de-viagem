@@ -43,4 +43,4 @@ start index.html
 
 ## Licença
 
-The [MIT License]() (MIT)
+The [MIT License](https://pt.wikipedia.org/wiki/Licen%C3%A7a_MIT) (MIT)
