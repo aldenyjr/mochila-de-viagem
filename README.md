@@ -6,7 +6,7 @@ Este projeto foi desenvolvido através do Curso Amarzenando na web Alura.
 
 ---
 
-| :placard: Vitrine.Dev |                          |
+| -  |             -            |
 | --------------------- | ------------------------ |
 | :sparkles: Nome       | **Armazenando na WEB**   |
 | :label: Tecnologias   | HTML5, CSS3 e JavaScript |
