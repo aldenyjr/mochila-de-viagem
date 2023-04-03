@@ -10,10 +10,10 @@ Este projeto foi desenvolvido através do Curso Amarzenando na web Alura.
 | --------------------- | ------------------------ |
 | :sparkles: Nome       | **Armazenando na WEB**   |
 | :label: Tecnologias   | HTML5, CSS3 e JavaScript |
-| :rocket: URL          |                          |
-| :fire: Desafio        |                          |
+| :rocket: URL          | https://mochila-de-viagem-aldenyjr.vercel.app/                         |
+| :fire: Desafio        | Armazenar lista no LocalStore do Navegador                         |
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/static/v1?label=html5&message=marca%C3%A7%C3%A3o&color=red&style=for-the-badge&logo=HTML5"/>
   <img src="https://img.shields.io/static/v1?label=css&message=estilo&color=blue&style=for-the-badge&logo=CSS3">
   <img src="https://img.shields.io/static/v1?label=javascript&message=linguagem&color=yellow&style=for-the-badge&logo=JAVASCRIPT">
@@ -27,7 +27,7 @@ Este projeto foi desenvolvido através do Curso Amarzenando na web Alura.
 
 ![Layout](https://user-images.githubusercontent.com/114154072/229575797-5765a9a9-517c-4318-bc2e-607abc3e5112.png)
 
-> Link do deploy da aplicação: <a href="http://google.com.br">Clique e Veja!</a>
+> Link do deploy da aplicação: <a href="https://mochila-de-viagem-aldenyjr.vercel.app">Clique e Veja!</a>
 
 # Pré-requisitos e Instruções
 
