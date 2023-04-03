@@ -9,17 +9,15 @@ Este projeto foi desenvolvido através do Curso Amarzenando na web Alura.
 | -  |             -            |
 | --------------------- | ------------------------ |
 | :sparkles: Nome       | **Armazenando na WEB**   |
-| :label: Tecnologias   | HTML5, CSS3 e JavaScript |
+| :label: Tecnologias   | <img src="https://img.shields.io/badge/html5-red?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3-blue?style=for-the-badge&logo=css3&logoColor=white">   <img src="https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white">|
 | :rocket: URL          | https://mochila-de-viagem-aldenyjr.vercel.app/                         |
 | :fire: Desafio        | Armazenar lista no LocalStore do Navegador                         |
 
-<p>
-  <img src="https://img.shields.io/static/v1?label=html5&message=marca%C3%A7%C3%A3o&color=red&style=for-the-badge&logo=HTML5"/>
-  <img src="https://img.shields.io/static/v1?label=css&message=estilo&color=blue&style=for-the-badge&logo=CSS3">
-  <img src="https://img.shields.io/static/v1?label=javascript&message=linguagem&color=yellow&style=for-the-badge&logo=JAVASCRIPT">
-  <img src="http://img.shields.io/static/v1?label=License&message=MIT&color=green&style=for-the-badge&logo=MIT"/>
-   <img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge"/>
-</p>
+</br>
+<div>
+  <img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge"/>
+  <img src="http://img.shields.io/static/v1?label=License&message=MIT&color=green&style=for-the-badge&logo=MIT"/>  
+</div>
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 
